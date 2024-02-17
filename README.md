@@ -1,7 +1,7 @@
 - 👋 Hi, My name is **Lillie** and I am from Connecticut
 - 🏫 I am a student at Indiana University (Bloomington)
 - 💻 I am currently studying **Computer Science** and **Data Science**
-- 👀 I’m interested in **Lower Level Progreamming** at this current point in time
+- 👀 I’m interested in **Lower Level Programming** at this current point in time
 - 🌱 I’m currently learning **C**, **Java (again)**, and **Discrete Structures**
 - 💞️ I’m looking to collaborate on really anything, feel free to contact me and if it's in my range of interest(s) I might be wanting to help out
 - 📫 You can reach me via Discord: @onlinechronically
