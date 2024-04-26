@@ -1,9 +1,9 @@
-- 👋 Hi, My name is **Lillie** and I am from Connecticut
-- 🏫 I am a student at Indiana University (Bloomington)
-- 💻 I am currently studying **Computer Science** and **Data Science**
-- 👀 I’m interested in **Programming Languages** at this current point in time
+- 👋 Hi, My name is **Lillie** and I am from a small town in **Connecticut**
+- 🏫 I am a student at **Indiana University** (Bloomington)
+- 💻 I am currently studying **Computer Science**
+- 👀 I’m interested in **Systems Programming** & **Programming Languages** at the moment
 - 🌱 I’m currently learning **C**, **Java (again)**, and **Discrete Structures**
 - 💞️ I’m looking to collaborate on really anything, feel free to contact me and if it's in my range of interest(s) I might be wanting to help out
 - 📫 You can reach me via Discord: @onlinechronically
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I use **Arch Linux** and **Rust** on the daily!
+- ⚡ Fun fact: I use Arch btw
