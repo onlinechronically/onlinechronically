@@ -2,7 +2,7 @@
 - 🏫 I am a student at **Indiana University** (Bloomington)
 - 💻 I am currently studying **Computer Science**
 - 👀 I’m interested in **Systems Programming** & **Programming Languages**
-- 🌱 I’m currently learning **C**, **Java (again)**, and **Discrete Structures**
+- 🌱 I’m currently learning **Go**
 - 💞️ I’m looking to collaborate on really anything, feel free to contact me and if it's in my range of interest(s) I might be wanting to help out
 - 📫 You can reach me via Discord: @onlinechronically
 - 😄 Pronouns: she/they
